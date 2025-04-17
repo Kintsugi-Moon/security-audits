@@ -1,38 +1,42 @@
-# 🛡️ Internal Security Audit: Botium Toys (Sample)
+# 🔐 Security Audits Portfolio
 
-This repository includes a sample internal security audit for a fictional company, **Botium Toys**, conducted as part of my learning in the Google Cybersecurity Certificate course on Coursera.
+Welcome to my cybersecurity audit portfolio! This repository showcases my hands-on practice and understanding of security audits, risk assessments, and compliance frameworks. It includes documentation, assessments, and controls aligned with real-world scenarios.
 
-## 🔍 Audit Overview
+## 📁 Contents
 
-The audit focused on reviewing internal controls, identifying security risks, and aligning with compliance standards.
+- `botium-toys-audit/`: A mock audit for Botium Toys, focusing on risk assessment, scope, goals, and compliance with best practices and controls.
+- `study-guides/`: Supplementary study materials created alongside coursework and self-study to strengthen my understanding of security domains, frameworks, and tools.
 
-- **Audit Goals:**  
-  - Identify potential risks and weaknesses in the current security posture  
-  - Verify administrative, technical, and physical controls  
-  - Provide recommendations for improvement  
+## ✅ Completed Audits
 
-- **Frameworks & Tools Referenced:**  
-  - NIST Risk Management Framework (RMF)  
-  - Compliance and Controls Checklist (HHS-style format)  
-  - CIA Triad (Confidentiality, Integrity, Availability)  
+### 📦 Botium Toys Audit
 
-## 🧾 What's Included
+**Scenario**: Botium Toys is a toy manufacturer that relies on both digital and physical systems to run its operations. The organization required an internal audit to evaluate risks, define goals, and assess compliance with controls such as physical access, network security, and risk management processes.
 
-- `Botium Toys_ Scope, goals, and risk assessment report.pdf`  
-- `Controls and compliance checklist.pdf`  
-- Annotated answers and explanations from Coursera module assessments  
-- This README file
+**Deliverables**:
+- [Scope, Goals, and Risk Assessment Report](./botium-toys-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
+- [Controls and Compliance Checklist](./botium-toys-audit/Controls%20and%20compliance%20checklist.pdf)
+- Visuals for identified controls and areas of concern
 
-## 💡 Key Learnings
-
-- Practiced identifying gaps in administrative controls  
-- Assessed organizational risk using a structured checklist  
-- Strengthened understanding of internal audit processes  
-- Applied knowledge of compliance frameworks (HIPAA, NIST)
-
-## 📌 Notes
-
-This is a fictional audit created for educational purposes. No real company data was used.
+**Key Areas Evaluated**:
+- Physical security controls (access, surveillance)
+- Risk classification of systems
+- Compliance alignment with standard frameworks (NIST, ISO 27001)
 
 ---
 
+## 📚 Why This Repo?
+
+As part of my journey through the **Google Cybersecurity Certificate** and formal coursework at Indiana Tech, I’m building this mini portfolio to show my understanding of core security practices — especially risk management, assessment, compliance, and technical/administrative controls.
+
+More audits and study references will be added as I progress.
+
+## 🚀 Upcoming Additions
+
+- Additional mock audits from coursework or practice scenarios
+- Summary documentation for frameworks (NIST CSF, ISO/IEC 27001, HIPAA, etc.)
+- Custom flowcharts and risk visuals created in draw.io
+
+---
+
+Thanks for checking out my work!

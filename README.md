@@ -14,8 +14,8 @@ Welcome to my cybersecurity audit portfolio! This repository showcases my hands-
 **Scenario**: Botium Toys is a toy manufacturer that relies on both digital and physical systems to run its operations. The organization required an internal audit to evaluate risks, define goals, and assess compliance with controls such as physical access, network security, and risk management processes.
 
 **Deliverables**:
-- [Scope, Goals, and Risk Assessment Report](./botium-toys-audit/Botium%20Toys_%20Scope,%20goals,%20and%20risk%20assessment%20report.pdf)
-- [Controls and Compliance Checklist](./botium-toys-audit/Controls%20and%20compliance%20checklist.pdf)
+- [Scope, Goals, and Risk Assessment Report](./botium-toys-audit/Botium%20Toys%20Scope,%20Goals,%20and%20Risk%20Assessment%20Report.pdf)
+- [Controls and Compliance Checklist](./botium-toys-audit/Controls%20and%20Compliance%20Checklist.pdf)
 - Visuals for identified controls and areas of concern
 
 **Key Areas Evaluated**:
